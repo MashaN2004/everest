@@ -1,0 +1,149 @@
+.ff{
+}
+.bg-img{
+	background-image: url(https://img5.goodfon.ru/original/1920x1200/7/fd/gory-multik-ieti-multfilm-everest-abominable-gorod.jpg);
+	background-size: 100% 100%;
+}
+
+.head{
+	height: 100px;
+	background-color: #000080;
+}
+.body{
+	width: 1150px;
+	height: 2600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+.poster{
+	height: 550px;
+	margin-top: 10px;
+	padding-top: 50px;
+	border-radius: 20px;
+}
+.div-t{
+	height: 420px;
+	margin-top: 20px;
+	background: #104E8B;
+	border-radius: 10px;
+}
+.personage{
+	height: 800px;
+	margin-top: 20px;
+	background: #104E8B;
+	padding-top: 20px;
+	border-radius: 10px;
+}
+.photoes{
+	height: 690px;
+	margin-top: 10px;
+	background: #104E8B;
+	padding-top: 20px;
+	border-radius: 10px;
+}
+
+
+
+.d{
+	display: flex;
+}
+.dh{
+	margin-right: auto;
+	margin-left: auto;
+	width: 250px;
+}
+.photo{
+	height: 500px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 10px solid #000080;
+	border-radius: 30px;
+}
+.text{
+	width: 900px;
+	height: 420px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+}
+.pers{
+	height: 650px;
+	width: 250px;
+	background: #BFEFFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-left: 20px;
+}
+.div-p{
+	width: 900px;
+	height: 280px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #104E8B;
+	margin-top: 20px;
+	display:flex; 
+}
+.img-per{
+	
+}
+.t-p{
+
+}	
+.img-p{
+	border: 1px solid black;
+	width: 440px;
+	margin-left: 20px
+}
+.img-p1{
+	border: 1px solid black;
+	width: 440px;
+}
+
+
+
+
+.img-h{
+	width: 250px;
+	height: 100px;
+	
+}
+.img-po{
+	border-radius: 30px;
+	height: 500px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.i-p{
+	width: 250px;
+	height: 550px;
+}
+.img-p0{
+	width: 440px;
+	height: 280px;
+}
+
+.h1{
+	text-align: center;
+	color: white;
+	font-weight: 28px;
+
+}
+.p{
+	color: #104E8B;
+	font-size: 30px;
+	text-align: center;
+}
+.t{
+	font-size: 25px;
+	color: white;
+}
+@font-face{
+		font-family: ff;
+		src: url(ff.ttf);
+
+}
